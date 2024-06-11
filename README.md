@@ -7,5 +7,5 @@
 - GitLab CI: Pipelines, CI/CD and DevOps for Beginners
 - Executive Briefing  Artificial Intelligence (AI) + ChatGPT
 - Raspberry Pi For Beginners - 2024 Complete Course
-
+- Automated Web Testing with JavaScript and Playwright
 
