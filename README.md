@@ -9,4 +9,5 @@
 - Raspberry Pi For Beginners - 2024 Complete Course
 - Automated Web Testing with JavaScript and Playwright
 - CSS + HTML 101 Crash Course
+- JavaScript: Understanding ES6 and Beyond
 
