@@ -10,4 +10,5 @@
 - Automated Web Testing with JavaScript and Playwright
 - CSS + HTML 101 Crash Course
 - JavaScript: Understanding ES6 and Beyond
+- Git Mastery: Beginner to Expert with GitHub & GitLab
 
